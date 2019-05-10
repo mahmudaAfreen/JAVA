@@ -1,0 +1,9 @@
+package string;
+
+public class Func7 {
+	public static void main(String args[]) {
+		String str="ABCDE";
+		System.out.println(str.toLowerCase());
+	}
+
+}

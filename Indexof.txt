@@ -1,0 +1,9 @@
+package string;
+
+public class Func3 {
+	public static void main(String args[]) {
+		String str="Study Tonight";
+		System.out.println(str.indexOf("oni"));
+	}
+
+}

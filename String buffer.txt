@@ -1,0 +1,14 @@
+package string;
+
+import java.util.Scanner;
+
+public class Func16 {
+	public static void main(String args[]) {
+		StringBuffer sb=new StringBuffer("Hello Java");
+		Scanner Sc=new Scanner(System.in);
+		sb.append(Sc.nextLine());
+		System.out.println(sb);
+		Sc.close();
+	}
+
+}

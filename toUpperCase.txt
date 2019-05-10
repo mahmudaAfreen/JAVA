@@ -1,0 +1,9 @@
+package string;
+
+public class Func8 {
+	public static void main(String args[]) {
+		String str="afreen";
+		System.out.println(str.toUpperCase());
+	}
+}
+d

@@ -1,0 +1,12 @@
+package string;
+
+public class Func1 {
+		public static void main(String args[]) {
+			String str="Afreen";
+			System.out.println(str.charAt(2));
+		}
+
+	}
+
+
+
